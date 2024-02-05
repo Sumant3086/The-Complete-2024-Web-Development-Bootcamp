@@ -16,10 +16,7 @@ PostgreSQL: Discover the power of relational databases and how to use PostgreSQL
 
 Web3 and DApps: Learn about blockchain development, Web3, and create decentralized applications (DApps).
 
-Getting Started
-Clone the repository to your local machine:
-
-git clone https://github.com/your-username/The-Complete-2024-Web-Development-Bootcamp.git
+Getting Started 
 Navigate to the project directory:
 
 cd The-Complete-2024-Web-Development-Bootcamp
