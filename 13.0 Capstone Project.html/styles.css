@@ -1,0 +1,51 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Apply a basic style to the body */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Style for the hero section */
+.hero {
+    background-color: #f0f0f0;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Style for the resume section */
+.resume {
+    background-color: #e0e0e0;
+    padding: 30px;
+}
+
+/* Style for the projects section */
+.projects {
+    background-color: #f0f0f0;
+    padding: 30px;
+}
+
+/* Style for the about me section */
+.about-me {
+    background-color: #e0e0e0;
+    padding: 30px;
+}
+
+/* Style for the contact me section */
+.contact {
+    background-color: #f0f0f0;
+    padding: 30px;
+}
+
+/* Responsive design using media queries */
+@media only screen and (max-width: 600px) {
+    /* Adjust styles for smaller screens if needed */
+}
+.container{
+    text-align: center;
+    background-color: burlywood;
+    }
